@@ -1,0 +1,5 @@
+Execute a classe Main.java.
+Abra o navegador e acesse http://localhost:8080/.
+Preencha o formulário e envie os dados.
+Você será redirecionado para a página de resultado com os dados inseridos.
+Lembre-se de ajustar as configurações, os nomes de pacotes, as dependências e as localizações dos arquivos conforme necessário para o seu ambiente.

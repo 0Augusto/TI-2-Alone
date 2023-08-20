@@ -1,0 +1,11 @@
+src
+|-- main
+|   |-- java
+|   |   |-- com
+|   |       |-- example
+|   |           |-- Main.java
+|   |-- resources
+|       |-- templates
+|           |-- formulario.html
+|           |-- resultado.html
+
